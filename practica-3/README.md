@@ -8,12 +8,12 @@
 
 ## 👥 Integrantes
 
-| Nombre completo | Matrícula |
-|-----------------|-----------|
-| [Raúl Chessani] | [198543-1] |
-| [Erik Aguirre] | [198322-6] |
-| [Cristopher Córtes] | [198111-6] |
-| [Daniel Juaréz] | [198744-6] |
+| Nombre completo | 
+|-----------------|
+| [Raúl Chessani] |
+| [Erik Aguirre] | 
+| [Cristopher Córtes] |
+| [Daniel Juaréz] | 
 ## 1. Caso de uso
 
 [¿Qué necesidad resuelven y de quién es?]
