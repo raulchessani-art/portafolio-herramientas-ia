@@ -16,6 +16,12 @@ app = gr.Interface(
     fn=clasificar,
     inputs=gr.Image(type="pil", label="Imagen"),
     outputs=gr.Label(num_top_classes=3),
+    title="¿Qué hay en la foto?",
+    description="Clasificación con el modelo google/mobilenet_v2_1.0_224.",
+    examples=[
+        ["ejemplos/carro.jpg"],
+        ["ejemplos/mi-foto.jpg"],
+    ],
 )
 
 
